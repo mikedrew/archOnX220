@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo Mike\'s x220 install script
 echo 
 echo
